@@ -1,0 +1,22 @@
+# Python
+backend/venv/
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Secrets
+.env
+*.env
+
+# Data/logs
+backend/reports.db
+backend/.demo-run/
+*.wav
+*.aiff
+
+# OS
+.DS_Store
